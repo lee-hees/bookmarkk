@@ -17,3 +17,25 @@
     height: 100px;
     background-color: gray;
 }
+
+.site_link{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.site_link:hover{
+    text-decoration: none;
+    color: black;
+}
+.site_link:visited{
+    text-decoration: none;
+    color: black;
+}
+
+.inline_div{
+    line-height: 50px;
+    /* border: solid black 1px; */
+    display: inline-block;
+    width: 49%;
+    height: 50px;
+}
