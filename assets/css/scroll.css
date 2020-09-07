@@ -35,7 +35,8 @@
 .inline_div{
     line-height: 50px;
     /* border: solid black 1px; */
-    display: inline-block;
-    width: 49%;
+    /* display: inline-block; */
+    /* width: 49%; */
+    /* font-size: 70%; */
     height: 50px;
 }
